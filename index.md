@@ -10,6 +10,5 @@
 
 ---
 
-## 更新履歴
-- 2025-11-23: 公開サイトを整備、index.md追加
-- 2025-11-11: DPM++ 2M Karrasサンプラー適用予定を記録
+## 編集ページ（GitHubリポジトリ）
+✏️ [編集はこちら](https://github.com/Niwaka4625/ComfyUI-model-list)
