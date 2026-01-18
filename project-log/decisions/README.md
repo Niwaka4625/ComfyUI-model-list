@@ -5,8 +5,3 @@
 - ファイル名：YYYY-MM-DD.md
 - 事実と決定のみを書く
 - 曖昧なアイディアは書かない
-
----------------------
-This setup is recorded as a design decision.
-It represents the maximum stable quality achievable
-with img2img-only (no ControlNet) at this stage.
