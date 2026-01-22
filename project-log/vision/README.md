@@ -55,6 +55,9 @@
 - `media_mix_strategy.md`  
   → 将来のメディア展開・構想メモ（検討用）
 
+- `VISION-makina-core-v1.md`
+  → マキナの中核ビジョン（個AI・メディアミックス・6年計画）
+
 ### stories（外伝）
 
 - `stories/cats-history-v1.md`  
