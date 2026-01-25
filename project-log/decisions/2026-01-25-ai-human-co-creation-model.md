@@ -83,3 +83,7 @@
 
 その過程を記録し続けること自体が、
 AI理解のためのハブとなることを意図している。
+
+## Pending
+- Generate first Makina Observation Diary (v1) from existing ru observation.
+
