@@ -84,6 +84,14 @@
 その過程を記録し続けること自体が、
 AI理解のためのハブとなることを意図している。
 
-## Pending
-- Generate first Makina Observation Diary (v1) from existing ru observation.
+## Context Handling (Temporary Operation)
 
+- AI (Makina) does not retain long-term memory between sessions.
+- GitHub is treated as the persistent external memory.
+- For each Makina observation diary generation, the following inputs are provided:
+  - The current v1 structured observation (ru perspective)
+  - The latest makina_context.md
+- After generation:
+  - The Makina diary is saved.
+  - makina_context.md is updated to reflect the new understanding.
+- This method is a temporary but necessary operation until AI-side long-term memory becomes available.
