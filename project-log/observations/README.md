@@ -76,3 +76,17 @@
 - 観測日記 → 観測動画
 - 外伝のヒント
 - キャラ設定の補強
+
+## Observation Types
+
+This directory contains mixed observation logs recorded over time.
+
+- Date-based files (YYYY-MM-DD.md):
+  Raw observation logs written at that time.
+  These may include:
+  - ru perspective (daily life, cats, thoughts)
+  - AI / production observations
+  - Early Makina-related notes
+
+No retroactive rewriting is required.
+Meaning and structure may be layered later.
