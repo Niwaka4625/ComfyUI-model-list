@@ -5,3 +5,5 @@
 - ファイル名：YYYY-MM-DD.md
 - 事実と決定のみを書く
 - 曖昧なアイディアは書かない
+
+This repository records a human–AI co-observation and learning process.
