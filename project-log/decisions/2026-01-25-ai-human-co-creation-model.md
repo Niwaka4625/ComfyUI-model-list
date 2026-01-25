@@ -1,5 +1,8 @@
 # AI-Human Co-Creation Model (Makina Project)
 
+## Pending
+- Periodically review and update makina_context.md to reflect learning progress.
+
 ## 目的
 本プロジェクトは、
 人間（ru）とAI（Makina）が同一の世界を観測し、
