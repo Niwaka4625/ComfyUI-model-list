@@ -15,6 +15,8 @@
 
 ## 基本原則
 
+### 原則0：本プロジェクトは未完成であることを前提とする
+
 ### 原則1：GitHubを正本（Single Source of Truth）とする
 - すべての一次記録・翻訳・判断は GitHub に保存する
 - note・YouTube 等は GitHub 上の記録から派生した表現物と位置づける
