@@ -109,6 +109,3 @@ UNTRACE の定義・哲学・構造については
 
 # 5. ライセンス  
 MIT License（推奨）
-
-## 🔗 UNTRACE の詳細な定義はこちら
-→ [UNTRACE_CONCEPT.md](./UNTRACE/UNTRACE_CONCEPT.md)
