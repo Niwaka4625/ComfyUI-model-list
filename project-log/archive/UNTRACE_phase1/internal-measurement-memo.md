@@ -1,3 +1,8 @@
+> ⚠ ARCHIVED DOCUMENT
+> Status: Phase1 Ideation (Superseded)
+> Not current specification.
+> Refer to: project-log/UNTRACE/UNTRACE-current.md
+
 # AI時代における「内的変化の測定」に関する観察メモ  
 （※個人の能力ではなく、構造そのものに着目した記録）
 
