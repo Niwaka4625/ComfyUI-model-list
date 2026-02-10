@@ -1,3 +1,8 @@
+> ⚠ ARCHIVED DOCUMENT
+> Status: Phase1 Ideation (Superseded)
+> Not current specification.
+> Refer to: project-log/UNTRACE/UNTRACE-current.md
+
 # UNTRACE — Deep Preference Navigation System  
 ## 定義・哲学・構造
 
