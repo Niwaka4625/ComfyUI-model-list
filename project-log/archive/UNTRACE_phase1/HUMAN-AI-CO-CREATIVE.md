@@ -1,3 +1,8 @@
+> ⚠ ARCHIVED DOCUMENT
+> Status: Phase1 Ideation (Superseded)
+> Not current specification.
+> Refer to: project-log/UNTRACE/UNTRACE-current.md
+
 # HUMAN-AI CO-CREATIVE  
 ## ― 構造観測者 ru による、発見の流れと UNTRACE 誕生の記録 ―
 
